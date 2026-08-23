@@ -17,17 +17,18 @@
 
 ## Areas of focus
 
-> 🛡️ **AI Security** — Security research at the intersection of artificial intelligence and computing.
->
-> 🧩 **Low-Level Development** — Operating systems, systems internals, and close-to-the-metal engineering.
+| | Area | Background |
+| :---: | :--- | :--- |
+| <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%236e7781" width="18" alt="" /> | **AI Security** | Security research at the intersection of artificial intelligence and computing |
+| <img src="https://api.iconify.design/lucide/cpu.svg?color=%236e7781" width="18" alt="" /> | **Low-Level Development** | Operating systems, systems internals, and close-to-the-metal engineering |
 
 ## Experienced with
 
 | | Area | Background |
 | :---: | :--- | :--- |
-| 🔐 | **Cybersecurity** | Operational and engineering environments |
-| ⚙️ | **Back-End Engineering** | Server-side systems and application development |
-| 📊 | **Data Science** | Applied data science and analytical foundations |
+| <img src="https://api.iconify.design/lucide/lock.svg?color=%236e7781" width="18" alt="" /> | **Cybersecurity** | Operational and engineering environments |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%236e7781" width="18" alt="" /> | **Back-End Engineering** | Server-side systems and application development |
+| <img src="https://api.iconify.design/lucide/chart-line.svg?color=%236e7781" width="18" alt="" /> | **Data Science** | Applied data science and analytical foundations |
 
 ## Experience
 
@@ -71,10 +72,10 @@
 <br />
 
 <div align="center">
-  <br /><br />
-  <sub>Current language favorites</sub>
   <br />
-  🦀 <code>Rust</code> &nbsp;·&nbsp; ⚙️ <code>C++</code> &nbsp;·&nbsp; ☕ <code>Java</code>
+  <sub>Current language favorites</sub>
+  <br /><br />
+  <img src="https://api.iconify.design/game-icons/crab.svg?color=%236e7781" width="18" align="center" alt="" /> <code>Rust</code> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/cog.svg?color=%236e7781" width="18" align="center" alt="" /> <code>C++</code> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/coffee.svg?color=%236e7781" width="18" align="center" alt="" /> <code>Java</code>
   <br /><br />
   <a href="https://umaysamli.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/umay-samli-5419b51bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
