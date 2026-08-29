@@ -11,6 +11,7 @@
         Turkish Aerospace, ASELSAN, and Savronik.
       </p>
       <p><strong>Currently:</strong> Researcher at TED University · MSc in Computer Science</p>
+      <p><strong>Other account:</strong> <a href="https://github.com/kuzeytheconqueror">@kuzeytheconqueror</a> — used for starting and checking out other projects</p>
     </td>
   </tr>
 </table>
